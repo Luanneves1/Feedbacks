@@ -12,7 +12,7 @@ Este é um sistema simples de feedback desenvolvido em PHP para coletar opiniõe
 - **Listagem de Feedbacks:** Página que exibe todos os feedbacks recebidos.
 
 ## Tela FeedBack
-![Formulário de Feedback](img/TelaFeedbacks.png)
+![Formulário de Feedback](TelaFeedbacks.png)
 
 ## Requisitos
 
