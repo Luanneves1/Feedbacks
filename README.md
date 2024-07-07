@@ -1,6 +1,6 @@
 # Sistema de Feedback em PHP
 
-![Logo do Projeto](img/logo.png)
+![Logo do Projeto](img/HomeFeedBack.png)
 
 Este é um sistema simples de feedback desenvolvido em PHP para coletar opiniões dos usuários e armazená-las em um banco de dados MySQL.
 
@@ -11,11 +11,8 @@ Este é um sistema simples de feedback desenvolvido em PHP para coletar opiniõe
 - **Armazenamento Seguro:** Utiliza MySQL para armazenar e gerenciar os dados de feedback.
 - **Listagem de Feedbacks:** Página que exibe todos os feedbacks recebidos.
 
-## Capturas de Tela
-
-![Página Inicial](screenshots/home.png)
-
-![Formulário de Feedback](screenshots/feedback_form.png)
+## Tela FeedBack
+![Formulário de Feedback](img/TelaFeedbacks.png)
 
 ## Requisitos
 
